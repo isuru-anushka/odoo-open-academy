@@ -1,5 +1,17 @@
 <odoo>
     <data>
+        <record id="10001" model="open-academy.open-academy">
+            <field name="title">English</field>
+            <field name="desc">English Language</field>
+        </record>
+        <record id="10002" model="open-academy.open-academy">
+            <field name="title">Maths</field>
+            <field name="desc">Maths Course</field>
+        </record>
+        <record id="10003" model="open-academy.open-academy">
+            <field name="title">Science</field>
+            <field name="desc">Science Course</field>
+        </record>
 <!--
           <record id="object0" model="open-academy.open-academy">
             <field name="name">Object 0</field>
